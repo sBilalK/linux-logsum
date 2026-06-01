@@ -17,7 +17,7 @@
 <pre><code>chmod +x sbk_logsum.sh</code></pre>
 
 <p>Hedef dizini belirterek çalıştırın:</p>
-<pre><code>./sbk_logsum.sh /var/log/uygulama_loglari</code></pre>
+<pre><code>./sbk_logsum.sh [The file path of the folder containing the log files]</code></pre>
 
 <h2>Çıktılar</h2>
 <p>İşlem tamamlandıktan sonra <code>~/log_rapor/</code> dizininde oluşacak dosyalar:</p>
